@@ -33,7 +33,7 @@ Hasil Output nya >>>>>>>>>
 ![program1eaa](https://user-images.githubusercontent.com/46559356/52992488-511fc300-3443-11e9-8627-7b414071e1e4.png)
 
 Ketiga Kita Bahas Alur Algoritma Program "Program1.py"
-
+![programniih](https://user-images.githubusercontent.com/46559356/52992746-44e83580-3444-11e9-8f6e-f164f9f45a26.png)
 
 Hasil Output nya >>>>>>>>>
 
