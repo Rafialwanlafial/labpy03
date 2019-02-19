@@ -30,12 +30,9 @@ Hasil Output nya >>>>>>>>>
 Kedua Kita Bahas Alur Algoritma Program "Latihan2.py"
 ![yg 2](https://user-images.githubusercontent.com/46559356/52992102-ef128e00-3441-11e9-9711-6e4caebe1dfe.png)
 Hasil Output nya >>>>>>>>>
-
+![Uploading program1eaa.png…]()
 
 Ketiga Kita Bahas Alur Algoritma Program "Program1.py"
-
-
-
 
 
 Hasil Output nya >>>>>>>>>
