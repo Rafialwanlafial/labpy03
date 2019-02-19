@@ -28,9 +28,7 @@ Hasil Output nya >>>>>>>>>
 ![latihan1eaa](https://user-images.githubusercontent.com/46559356/52992095-e9b54380-3441-11e9-838d-4febfe6e30eb.png)
 
 Kedua Kita Bahas Alur Algoritma Program "Latihan2.py"
-
-
-
+![yg 2](https://user-images.githubusercontent.com/46559356/52992102-ef128e00-3441-11e9-9711-6e4caebe1dfe.png)
 Hasil Output nya >>>>>>>>>
 
 
