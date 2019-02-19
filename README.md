@@ -3,8 +3,6 @@ Penjelasan Alur Algoritma Program latihan1.py , latihan2.py , dan program1.py
 
 Pertama Kita Bahas Alur Algoritma Program "Latihan1.py"
 
-![untitled](https://user-images.githubusercontent.com/46559356/52992086-e1f59f00-3441-11e9-9bf6-c334ee581428.png)
-
 PERULANGAN Perulangan dalam dalam bahasa pemrograman merupakan suatu pernyataan untuk menginstruksi komputer agar melakukan sesuatu secara berulang. Terdapat dua jenis perulangan dalam bahasa pemrograman python, yaitu perulangan dengan for dan while.
 Perulangan for
 Perulangan for disebut juga sebagai counted loop (perulangan yang terhitung), yaitu perintah yang dieksekusi secara berulang berdasarkan jumlah perulangan tertentu.
@@ -21,6 +19,8 @@ Pernyataan break dan continue Pernyataan break digunakan untuk menghentikan pros
 
 
 random() Pengacakan, pembangkit bilangan acak, atau random dapat digunakan untuk berbagai macam hal. Nilai random kadang dibutuhkan juga untuk menentukan suatu pilihan.
+latihan1.py
+![untitled](https://user-images.githubusercontent.com/46559356/52992086-e1f59f00-3441-11e9-9bf6-c334ee581428.png)
 
 
 Hasil Output nya >>>>>>>>>
