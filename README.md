@@ -37,4 +37,4 @@ Ketiga Kita Bahas Alur Algoritma Program "Program1.py"
 
 Hasil Output nya >>>>>>>>>
 ![huuaaaa](https://user-images.githubusercontent.com/46559356/52992926-e53e5a00-3444-11e9-9408-4d2b1f1b5a56.png)
-
+Terima kasih.
