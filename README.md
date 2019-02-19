@@ -25,7 +25,7 @@ latihan1.py
 
 Hasil Output nya >>>>>>>>>
 
-
+![latihan1eaa](https://user-images.githubusercontent.com/46559356/52992095-e9b54380-3441-11e9-838d-4febfe6e30eb.png)
 
 Kedua Kita Bahas Alur Algoritma Program "Latihan2.py"
 
